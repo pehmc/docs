@@ -1,2 +1,0 @@
-# Linear Models
-# Statistical Inference
